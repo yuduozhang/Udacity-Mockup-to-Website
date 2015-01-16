@@ -1,0 +1,45 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+}
+
+p {
+    font-size: 16px;
+    line-height: 200%;
+}
+
+.title {
+    margin-top: 45px;
+    font-size: 48px;
+}
+
+.subtitle {
+    color:#F07C17;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 31px;
+}
+
+.image {
+    margin-top: 20px;
+}
+
+ul {
+    font-size: 16px;
+    line-height: 200%;
+}
+
+.features {
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 30px;
+    border: 1px solid #CCCCCC;
+    height: 225px;
+}
